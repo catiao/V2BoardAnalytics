@@ -1,10 +1,15 @@
-# V2Board Analytics 开源功能介绍
+# V2Board Analytics 开源功能介绍 及 部署教程
 
 ---
 
-<!-- 在此处插入图片 -->
 
 ![V2Board Analytics01](https://github.com/catiao/V2BoardAnalytics/raw/main/png/V2Board%20Analytics01.jpg)
+
+![V2Board Analytics01](https://github.com/catiao/V2BoardAnalytics/raw/main/png/V2Board%20Analytics02.jpg)
+
+![V2Board Analytics01](https://github.com/catiao/V2BoardAnalytics/raw/main/png/V2Board%20Analytics03.jpg)
+
+![V2Board Analytics01](https://github.com/catiao/V2BoardAnalytics/raw/main/png/V2Board%20Analytics04.jpg)
 
 
 ---
