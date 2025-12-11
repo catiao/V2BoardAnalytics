@@ -45,7 +45,7 @@ V2Board Analytics 以数据驱动机场业务增长，助力机场主实现科�
 
 ---
 
---
+
 
 ## 部署教程
 
@@ -57,7 +57,17 @@ V2Board Analytics 以数据驱动机场业务增长，助力机场主实现科�
 
 3. 编辑 `V2BoardAnalyticsapi.php` 文件，填写以下配置信息：
 
-- 数据库连接信息（包括数据库地址、用户名、密码、数据库名等）
+```html
+// 数据库地址
+$servername = "127.0.0.1";
+// 数据库用户
+$username = "user";
+// 数据库密码
+$password = "admin";
+// 数据库名
+$dbname = "dbname";
+```
+
 
 4. 通过浏览器访问：http://你的V2Board域名/yourrandomstring12345678/ 即可打开 V2Board Analytics 数据分析面板。
 
@@ -67,3 +77,11 @@ V2Board Analytics 以数据驱动机场业务增长，助力机场主实现科�
 如果你在部署过程中遇到任何问题，欢迎提交 [issue](https://github.com/catiao/V2BoardAnalytics/issues) 或联系维护者协助解决。
 
  [Telegram频道](https://t.me/V2BoardAnalytics) 
+
+
+ ---
+
+ ## 更新记录
+ 
+**V1.0.1** 
+- 更新本月概览，新增本月流水、注册&充值率、订单&客单价
