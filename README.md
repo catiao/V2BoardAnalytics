@@ -4,6 +4,9 @@
 
 <!-- 在此处插入图片 -->
 
+![V2Board Analytics01](https://github.com/catiao/V2BoardAnalytics/raw/main/png/V2Board%20Analytics01.jpg)
+
+
 ---
 
 **V2Board Analytics** 是一款专为机场主设计的专业运营数据分析平台，帮助机场主全面掌握业务运营状况，提升管理和决策效率。主要功能包括：
